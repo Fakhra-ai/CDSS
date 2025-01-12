@@ -1,6 +1,8 @@
 #  Clinical Decision Support System (CDSS)
 
 A heath Assistent to make your life easy .
+
+Click to access the link 
  https://special-trout-wrgpg95w7wq7h9p65-8501.app.github.dev/
 
 ### How to run it on your own machine
