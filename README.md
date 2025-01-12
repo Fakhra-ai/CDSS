@@ -1,6 +1,6 @@
-# :earth_americas: GDP dashboard template
+#  Clinical Decision Support System (CDSS)
 
-A simple Streamlit app showing the GDP of different countries in the world.
+A heath Assistent to make your life easy .
  https://special-trout-wrgpg95w7wq7h9p65-8501.app.github.dev/
 
 ### How to run it on your own machine
